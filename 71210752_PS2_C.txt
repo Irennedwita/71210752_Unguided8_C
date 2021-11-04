@@ -1,0 +1,6 @@
+2. Ember yang akan terisi air lebih dahulu adalah ember B
+Penjelasan : 
+Ketika air hujan mengalir dari loteng rumah dan masuk ke dalam tangki, 
+hanya saluran tangki menuju ember B saja yang terbuka.
+Saluran tangki yang menuju ember A, C, dan D tertutup, 
+sehingga air hujan tidak dapat tertampung pada ember A, C, dan D 
