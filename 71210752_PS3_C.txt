@@ -1,0 +1,36 @@
+Step by Step
+X hanya dapat mengarsir wilayah Hx
+X -> Hx
+1.  X.ADD_RIGHT
+2.  X.ADD_DOWN
+3.  X.ADD_RIGHT
+4.  X.ADD_DOWN
+5.  X.ADD_DOWN
+6.  X.ADD_LEFT
+7.  X.ADD_DOWN
+8.  X.ADD_LEFT
+9.  X.DIE
+10. X.DIE
+11. X.DIE
+12. X.DIE
+13. X.DIE
+14. X.DIE
+15. X.DIE
+16. X.DIE
+
+Y hanya dapat mengarsir wilayah Hy
+Y -> Hy
+1.  Y.ADD_LEFT
+2.  Y.DIE
+3.  Y.ADD_UP
+4.  Y.DIE
+5.  Y.ADD_LEFT
+6.  Y.DIE
+7.  Y.ADD_UP
+8.  Y.DIE
+9.  Y.ADD_UP
+10. Y.DIE
+11. Y.ADD_RIGHT
+12. Y.DIE
+13. Y.ADD_UP
+14. Y.DIE
